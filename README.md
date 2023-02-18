@@ -79,6 +79,9 @@ The code view allows the user to enter script contents. Make sure to filter/[san
 ### For contributing
 https://github.com/summernote/summernote/blob/develop/.github/CONTRIBUTING.md
 
+### For Fonts Generator
+<a href="https://fontchanger.xyz" target="_blank">Font Changer</a>
+
 ### Contacts
 * Facebook user group: https://www.facebook.com/groups/summernote
 * Summernote Slack: [Join the Summernote Slack community](https://communityinviter.com/apps/summernote/summernote)
